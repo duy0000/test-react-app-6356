@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  line-height: 1.6;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 30px;
+  border-top: 5px solid #cc0000;
+}
+
+h1 {
+  color: #ee0000;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.author {
+  color: #666;
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.intro {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.valuation-list {
+  background-color: #fff9f9;
+  padding: 15px;
+  border-left: 4px solid #ee0000;
+}
+
+.valuation-list h2 {
+  color: #333;
+  font-size: 20px;
+}
+
+strong {
+  color: #0056b3;
+}
